@@ -21,12 +21,7 @@ body{
 .navbar-nav{
   gap: 30px;
 }
-.navbar-brand {
-  /* margin-left: 70px; */
-}
-.nav-link button{
-  /* margin-left: 10em; */
-}
+
 
 .enclose a button{
   background-color: orangered;
